@@ -1,0 +1,3 @@
+include ':combase'
+include ':app'
+rootProject.name = "FelixComBase"
